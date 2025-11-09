@@ -1,4 +1,4 @@
-name: primer build and package
+name: primer build and package...
 on:
   workflow_dispatch:
 
