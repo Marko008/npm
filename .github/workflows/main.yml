@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@5
+      - uses: actions/checkout@v5
       
       - name: configurar Nodejs
         uses:  actions/setup-node@v6
